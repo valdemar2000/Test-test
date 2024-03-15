@@ -1,1 +1,3 @@
 Текстовый файл.
+toshiba/
+satelit.
